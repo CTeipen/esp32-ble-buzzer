@@ -1,9 +1,9 @@
 #include <BleKeyboard.h>
 
-#define BUTTON_PIN          14
-#define LED_TRIGGER_PIN     12
-#define LED_BLE_PIN         27
 #define LED_POWER_PIN       13
+#define LED_BLE_PIN         12
+#define LED_TRIGGER_PIN     14
+#define BUTTON_PIN          27
 
 BleKeyboard bleKeyboard;
 
